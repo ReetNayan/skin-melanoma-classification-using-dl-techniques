@@ -13,6 +13,13 @@
 7. ###### Publish the observations in our research paper.
 
 ---
+
+### Architecture
+
+![Architecture of the project](imgs/block%20diagram.png)
+
+---
+
 ### 1. Dataset Description:
 Name: Melanoma Skin Cancer Dataset of 10000 Images
 *Desc: This dataset contains two classes of melanoma cancer, malignant and benign.*
