@@ -2,7 +2,7 @@
 
 ## **1. Pipeline Flowchart**
 
-![Flowchart](img/flowchart.png)
+![Flowchart](imgs/flowchart.png)
 
 ---
 
